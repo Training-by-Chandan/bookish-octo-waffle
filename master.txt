@@ -2,6 +2,8 @@ xerox
 this is test file.
 
 some new content for file b
+changes
+
 
 
 
